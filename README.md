@@ -4,9 +4,11 @@ A team-chat dashboard built end-to-end with [`@plyxui/*`](https://npmjs.com/org/
 
 ## Live
 
-- **CodeSandbox** (public, no login): https://codesandbox.io/p/sandbox/f989tt
-- **StackBlitz** (public, no login): https://stackblitz.com/github/vineethpawar/plyxui-demo
+- **StackBlitz** (no login required, runs Vite via WebContainers): https://stackblitz.com/github/vineethpawar/plyxui-demo
+- **CodeSandbox** (needs an account — spins up a Devbox with the same Vite env): https://codesandbox.io/p/github/vineethpawar/plyxui-demo/main?file=src/App.tsx
 - **Walkthrough on plyxui.com:** https://plyxui.com/docs/getting-started/playground/
+
+> Why two surfaces: StackBlitz runs an actual `npm install && npm run dev` in your browser, so Vite + plyxui's source-published `.ts` files transpile naturally. CodeSandbox's anonymous Define-API sandboxes use a legacy bundler that doesn't handle Vite, so the proper CodeSandbox experience is a Devbox — which means signing in once.
 
 ## Run locally
 
