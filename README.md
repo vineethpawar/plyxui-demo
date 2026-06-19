@@ -4,8 +4,9 @@ A team-chat dashboard built end-to-end with [`@plyxui/*`](https://npmjs.com/org/
 
 ## Live
 
-- **CodeSandbox:** https://codesandbox.io/p/github/vineethpawar/plyxui-demo/main?file=src/App.tsx
-- **Walkthrough:** https://plyxui.com/docs/getting-started/playground/
+- **CodeSandbox** (public, no login): https://codesandbox.io/p/sandbox/f989tt
+- **StackBlitz** (public, no login): https://stackblitz.com/github/vineethpawar/plyxui-demo
+- **Walkthrough on plyxui.com:** https://plyxui.com/docs/getting-started/playground/
 
 ## Run locally
 
