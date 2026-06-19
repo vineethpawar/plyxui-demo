@@ -10,14 +10,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@plyxui/comps": "^0.2.0",
-    "@plyxui/core": "^0.2.0",
-    "@plyxui/forms": "^0.2.0",
-    "@plyxui/hooks": "^0.2.0",
-    "@plyxui/icons": "^0.2.0",
-    "@plyxui/layouts": "^0.2.0",
-    "@plyxui/primitives": "^0.3.0",
-    "@plyxui/styles": "^0.2.0",
+    "@plyxui/comps": "^0.3.0",
+    "@plyxui/core": "^0.3.0",
+    "@plyxui/forms": "^0.3.0",
+    "@plyxui/hooks": "^0.3.0",
+    "@plyxui/icons": "^0.3.0",
+    "@plyxui/layouts": "^0.3.0",
+    "@plyxui/primitives": "^0.4.0",
+    "@plyxui/styles": "^0.3.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
